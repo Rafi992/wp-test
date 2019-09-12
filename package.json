@@ -1,0 +1,14 @@
+{
+  "name": "gridsome-wp-test",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/source-wordpress": "^0.3.0",
+    "dotenv": "^8.1.0",
+    "gridsome": "^0.6.0"
+  }
+}
